@@ -5,7 +5,7 @@ from PyQt5.Qt import *
 '''
 QComboBox 下拉选择框
 
-# 设置完成起
+# 设置完成器
 self.t.setEditable(True)
 
 c = QCompleter(('hello', 'hewwo'))

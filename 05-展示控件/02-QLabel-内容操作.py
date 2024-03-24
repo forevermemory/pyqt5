@@ -59,7 +59,7 @@ class Window(QWidget):
 
         label.setScaledContents(True)
         movie.start()
-        movie.setSpeed(300)
+        # movie.setSpeed(300) #设置播放速度
 
 
 

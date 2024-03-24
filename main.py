@@ -20,6 +20,7 @@ class Example(QWidget):
         # 设置窗口的图标，引用当前目录下的web.png图片
         self.setWindowIcon(QIcon('images/web.png'))
 
+
         # 显示窗口
         self.show()
 
